@@ -1,0 +1,25 @@
+html, body {
+    font-family: Arial, sans-serif;
+    background-color: #e29a9a;
+    margin: 0;
+    padding: 20px;
+}
+
+.container {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+
+}
+p {
+    color: #666;
+    font-size: 18px;
+}
